@@ -1,0 +1,2 @@
+# WikiScarper
+Wikipedia Web Scarper
