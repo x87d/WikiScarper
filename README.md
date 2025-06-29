@@ -1,5 +1,3 @@
-# WikiScarper
-Wikipedia Web Scarper
 # 🧠 Wikipedia Summary Scraper
 
 A Python script that scrapes the **title** and **introductory summary** from any public Wikipedia page, based on a **URL**, **exact page title**, or even a **general keyword**.
